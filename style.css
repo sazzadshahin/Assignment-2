@@ -48,7 +48,7 @@ main{
     justify-items: center;
     grid-template-columns: repeat(3, 1fr);
     grid-gap : 30px;
-    margin: 70px  0px 160px 250px;
+    margin: 70px  0px 160px 0px;
 }
 .naymar{
     width: 450px;
